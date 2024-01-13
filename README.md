@@ -1,3 +1,3 @@
 pyinstaller-playground
 ======================
-See [dirkarnez/pyqt-playground](https://github.com/dirkarnez/pyqt-playground)
+See [dirkarnez/pyside-playground](https://github.com/dirkarnez/pyside-playground)
