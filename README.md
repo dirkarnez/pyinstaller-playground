@@ -2,6 +2,9 @@ pyinstaller-playground
 ======================
 See [dirkarnez/pyside-playground](https://github.com/dirkarnez/pyside-playground)
 
+### Example
+- [esptool/.github/workflows/build_esptool.yml at master · espressif/esptool](https://github.com/espressif/esptool/blob/master/.github/workflows/build_esptool.yml)
+
 ### Tutorials
 - [【笔记】pyinstaller 封装含GUI的背景图及软件icon_pyinstaller icon-CSDN博客](https://blog.csdn.net/weixin_39967072/article/details/126561822)
 - [使用pyinstaller 打包成可执行程序_pyinstaller 设置后台运行-CSDN博客](https://blog.csdn.net/weixin_39967072/article/details/126558155)
